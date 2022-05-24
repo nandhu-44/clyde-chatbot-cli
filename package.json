@@ -1,7 +1,7 @@
 {
   "name": "clyde-chatbot-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Clyde is a chatbot - CLI build using JavaScript",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "nandhu-44",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.0.1",
     "chalk-animation": "^2.0.2",
@@ -19,5 +19,14 @@
     "lodash": "^4.17.21",
     "minimist": "^1.2.6",
     "node-fetch": "^3.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandhu-44/clyde-chatbot-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nandhu-44/clyde-chatbot-cli/issues"
+  },
+  "homepage": "https://github.com/nandhu-44/clyde-chatbot-cli#readme"
 }
