@@ -1,0 +1,23 @@
+{
+  "name": "clyde-chatbot-cli",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon ."
+  },
+  "keywords": [],
+  "author": "nandhu-44",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "dotenv": "^16.0.1",
+    "inquirer": "^8.2.4",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.6",
+    "node-fetch": "^3.2.4"
+  }
+}
